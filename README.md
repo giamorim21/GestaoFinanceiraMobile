@@ -7,9 +7,13 @@ Um aplicativo móvel simples e eficiente para gerenciamento de despesas diárias
 ## 📚 Informações Gerais
 
 - **Nome do Projeto:** MiniApp Financeiro  
-- **Grupo:** [Nome dos integrantes do grupo]  
-- **Disciplina:** [Nome da disciplina]  
-- **Professor(a):** [Nome do professor(a)]  
+- **Grupo:**  
+  • Felipe Madruga Gusmão  
+  • Giovana Amorim Campos  
+  • Izabelle Alencar Nabarrete  
+  • Yago de Queiroz Pio  
+- **Disciplina:** Programação para Dispositivos Móveis  
+- **Professor:** Kristian Pablo Dias Pacheco  
 - **Semestre:** 2025.1  
 
 ---
@@ -88,4 +92,3 @@ O **MiniApp Financeiro** foi desenvolvido com o objetivo de ser simples, funcion
 - O código-fonte **não será apresentado**, apenas o aplicativo em execução.
 
 ---
-
